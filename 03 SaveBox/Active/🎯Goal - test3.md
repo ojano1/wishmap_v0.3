@@ -1,25 +1,24 @@
 ---
-created: 2025-10-23
+created:
+  "{ date }":
+_task_sync_state: false
+done: false
 status: Active
+impact: false
+duration_hours: 0
 tags:
-  - Y2025
+  - Y2025Q4
 ---
-
-### 1. My Wish:
-✨Wish - coba1
-### 2. ✍️My Goals:
-*Write links to your goal pages using prefix `goal`. Example:  `[[goal mygoal]]`. 
-Read Instruction for help.*
-- [[🎯Goal - coba1]]
-- [[🎯Goal - test3]]
-- [[🎯Goal - test4]]
-- [[🎯Goal - test5]]
-
-⚠️= Not scheduled
-
+### 1. My Goal:
+### 2. ✍️My Projects:
+*Write your project links like this:  `[[project myproject]]`. 
+Read Instruction for more help.*
+- 
+- 
+- 
 ---
-### 3. My Quarterly Schedule:
-
+### 3. My Monthly Schedule:
+*Switch to the reading view to schedule you projects.*
 
 
 
@@ -75,3 +74,4 @@ Drag you goals to the quarter column when you want to start working on.
 ---
 
 <p align="center">WishMap © All rights reserved</p>
+

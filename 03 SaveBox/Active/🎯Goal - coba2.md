@@ -8,7 +8,7 @@ priority: Medium
 duration_hours: 0
 _goal_sync_state: false
 tags:
-  - "#Y2025-Q1"
+  - Y2026Q1
 ---
 
 ### My Goal

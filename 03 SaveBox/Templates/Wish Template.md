@@ -9,9 +9,11 @@ tags:
 *Write your wish links like this:  `[[wish mywish]]`. 
 Read Instruction for more help.*
 - 
+- 
+- 
 ---
 ### 3. My Quarterly Schedule:
-
+*Switch to the reading view to schedule you goals.*
 
 
 

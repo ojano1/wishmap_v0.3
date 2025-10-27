@@ -10,7 +10,7 @@ Read Instruction for more help.*
 
 ---
 ### 3. My Yearly Schedule:
-
+*Switch to the reading view to schedule you wishes.*
 
 
 

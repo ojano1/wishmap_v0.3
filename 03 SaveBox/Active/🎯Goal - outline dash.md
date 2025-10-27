@@ -12,7 +12,7 @@ tags:
 ---
 
 ### My Goal
-- [ ] 🎯Goal - coba1
+- [ ] 🎯Goal - outline dash
 
 Break this **Goal** into concrete **Projects** you can complete.  
 Each Project represents a clear deliverable that moves you closer to your Goal — think of them as milestones.

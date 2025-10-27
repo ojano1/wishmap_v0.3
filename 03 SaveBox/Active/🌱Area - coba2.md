@@ -8,10 +8,10 @@ status: Active
 *Write your wish links like this:  `[[wish mywish]]`. 
 Read Instruction for more help.*
 - [[✨Wish - coba2]]
-
+[[✨Wish - outline dash]]
 ---
 ### 3. My Yearly Schedule:
-*(If you haven't, switch to the reading view to drag and schedule you Wish cards.)*
+*Switch to the reading view to schedule you wishes.*
 
 
 

@@ -1,22 +1,17 @@
 ---
-created: 2025-10-23
+created: 2025-10-27
 status: Active
 tags:
   - Y2025
 ---
 
 ### 1. My Wish:
-✨Wish - coba1
+✨Wish - outline dash
 ### 2. ✍️My Goals:
-*Write links to your goal pages using prefix `goal`. Example:  `[[goal mygoal]]`. 
-Read Instruction for help.*
-- [[🎯Goal - coba1]]
-- [[🎯Goal - test3]]
-- [[🎯Goal - test4]]
-- [[🎯Goal - test5]]
-
-⚠️= Not scheduled
-
+*Write your wish links like this:  `[[wish mywish]]`. 
+Read Instruction for more help.*
+- [[🎯Goal - outline dash]]
+- [[🎯Goal - high impact]]
 ---
 ### 3. My Quarterly Schedule:
 

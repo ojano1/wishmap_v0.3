@@ -1,8 +1,6 @@
 ---
 created: 2025-10-23
 status: Active
-tags:
-  - Y2025
 ---
 
 ### 1. My Wish:

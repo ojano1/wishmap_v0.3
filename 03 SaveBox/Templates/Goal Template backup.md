@@ -1,18 +1,16 @@
 ---
 created:
   "{ date }":
-due:
-status: Active
+_task_sync_state: false
 done: false
-priority: Medium
+status: Active
+impact: Medium
+slot: Morning
 duration_hours: 0
-_goal_sync_state: false
-tags:
-  - Y2025Q4
+tags: []
 ---
-
 ### My Goal
-- [ ] 🎯Goal - coba1
+- [ ] {{title}}
 
 Break this **Goal** into concrete **Projects** you can complete.  
 Each Project represents a clear deliverable that moves you closer to your Goal — think of them as milestones.

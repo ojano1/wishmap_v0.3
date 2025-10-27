@@ -3,7 +3,7 @@ created: {{date}}
 _task_sync_state: false
 done: false
 status: Active
-impact: Medium
+high impact: false
 slot: Morning
 duration_hours: 1
 tags: []

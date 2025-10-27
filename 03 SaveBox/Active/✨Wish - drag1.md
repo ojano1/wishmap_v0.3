@@ -1,6 +1,8 @@
 ---
 created: 2025-10-22
 status: Active
+tags:
+  - Y2026
 ---
 
 ### 1. My Wish:
@@ -8,7 +10,9 @@ status: Active
 ### 2. ✍️My Goals:
 *Write links to your goal pages using prefix `goal`. Example:  `[[goal mygoal]]`. 
 Read Instruction for help.*
-- 
+- [[🎯Goal - rollup]]
+- [[🎯Goal - test]]
+- [[🎯Goal - test2]]
 - 
 - 
 
